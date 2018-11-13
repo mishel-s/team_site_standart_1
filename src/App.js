@@ -16,10 +16,10 @@ class Header extends Component {
             <div className="col-12 b-red d-flex fixed-top flex-column px-0">
               <div className="container d-none header-info d-md-flex justify-content-between b-green">
                 <div className="col-4 b-yellow d-flex justify-content-start">
-                  <a class="navbar-brand mx-1 py-0" href="#" target="_blank">
+                  <a class="navbar-brand mx-1 py-0" href="/" target="_blank">
                     <img src={mailH} width="32" alt="name" />
                   </a>
-                  <a class="navbar-brand mx-1 py-0" href="#" target="_blank">
+                  <a class="navbar-brand mx-1 py-0" href="/" target="_blank">
                     <img src={fbH} width="32" alt="name" />
                   </a>
                   <a class="navbar-brand mx-1 py-0" href="#" target="_blank">

@@ -1,8 +1,8 @@
 {
   "name": "team_site_standart_1",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": true,
-  "homepage": "https://mishel-s.github.io//team_site_standart_1",
+  "homepage": "https://mishel-s.github.io/team_site_standart_1/",
   "dependencies": {
     "bootstrap": "4",
     "date-fns": "^1.29.0",
