@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/kirichenko.23da69ed.png"
   },
   {
-    "revision": "e653293a61ef06d00d85",
-    "url": "/team_site_standart_1/static/css/main.8615fff6.chunk.css"
+    "revision": "f0bcad6891d625d1b2a2",
+    "url": "/team_site_standart_1/static/css/main.a91d1844.chunk.css"
   },
   {
-    "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
-    "url": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf"
+    "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
+    "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
   },
   {
-    "revision": "98b9ec4131235c89ac75",
-    "url": "/team_site_standart_1/static/js/1.98b9ec41.chunk.js"
+    "revision": "fd88f29227114cf322e5",
+    "url": "/team_site_standart_1/static/js/1.fd88f292.chunk.js"
   },
   {
     "revision": "0b797f33ccd3c94d7753",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/bugaiov.fe9939fd.png"
   },
   {
-    "revision": "e653293a61ef06d00d85",
-    "url": "/team_site_standart_1/static/js/main.e653293a.chunk.js"
+    "revision": "f0bcad6891d625d1b2a2",
+    "url": "/team_site_standart_1/static/js/main.f0bcad68.chunk.js"
   },
   {
     "revision": "73203b2f9d8de462f69baa7a38f3b27f",
@@ -72,23 +72,23 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/must_media.a6cc86ec.png"
   },
   {
-    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
-    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
+    "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
+    "url": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf"
   },
   {
-    "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
-    "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
+    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
+    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
   },
   {
     "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
     "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
   },
   {
-    "revision": "98b9ec4131235c89ac75",
+    "revision": "fd88f29227114cf322e5",
     "url": "/team_site_standart_1/static/css/1.0d84de86.chunk.css"
   },
   {
-    "revision": "6f56c55a18810f4519fb811b7a47edbc",
+    "revision": "df5a4acd6c07463d83d8b15e6acbe3ef",
     "url": "/team_site_standart_1/index.html"
   }
 ];
