@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/kirichenko.23da69ed.png"
   },
   {
-    "revision": "f0bcad6891d625d1b2a2",
-    "url": "/team_site_standart_1/static/css/main.a91d1844.chunk.css"
+    "revision": "90eeb84a9f9cec3f2fdf",
+    "url": "/team_site_standart_1/static/css/main.de7da282.chunk.css"
   },
   {
-    "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
-    "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
+    "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
+    "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
   },
   {
     "revision": "fd88f29227114cf322e5",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/bugaiov.fe9939fd.png"
   },
   {
-    "revision": "f0bcad6891d625d1b2a2",
-    "url": "/team_site_standart_1/static/js/main.f0bcad68.chunk.js"
+    "revision": "90eeb84a9f9cec3f2fdf",
+    "url": "/team_site_standart_1/static/js/main.90eeb84a.chunk.js"
   },
   {
     "revision": "73203b2f9d8de462f69baa7a38f3b27f",
@@ -80,15 +80,15 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
   },
   {
-    "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
-    "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
+    "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
+    "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
   },
   {
     "revision": "fd88f29227114cf322e5",
     "url": "/team_site_standart_1/static/css/1.0d84de86.chunk.css"
   },
   {
-    "revision": "df5a4acd6c07463d83d8b15e6acbe3ef",
+    "revision": "59e1aebe97f82d92edc03e9c28b035db",
     "url": "/team_site_standart_1/index.html"
   }
 ];
