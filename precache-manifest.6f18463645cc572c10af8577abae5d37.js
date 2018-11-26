@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/kirichenko.23da69ed.png"
   },
   {
-    "revision": "90eeb84a9f9cec3f2fdf",
-    "url": "/team_site_standart_1/static/css/main.de7da282.chunk.css"
+    "revision": "3daf412f20e79db10e7b",
+    "url": "/team_site_standart_1/static/css/main.0aa728df.chunk.css"
   },
   {
-    "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
-    "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
+    "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
+    "url": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf"
   },
   {
     "revision": "fd88f29227114cf322e5",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/bugaiov.fe9939fd.png"
   },
   {
-    "revision": "90eeb84a9f9cec3f2fdf",
-    "url": "/team_site_standart_1/static/js/main.90eeb84a.chunk.js"
+    "revision": "3daf412f20e79db10e7b",
+    "url": "/team_site_standart_1/static/js/main.3daf412f.chunk.js"
   },
   {
     "revision": "73203b2f9d8de462f69baa7a38f3b27f",
@@ -72,10 +72,6 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/must_media.a6cc86ec.png"
   },
   {
-    "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
-    "url": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf"
-  },
-  {
     "revision": "9ff12f694e5951a6f51a9d63b05062e7",
     "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
   },
@@ -84,11 +80,15 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
   },
   {
+    "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
+    "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
+  },
+  {
     "revision": "fd88f29227114cf322e5",
     "url": "/team_site_standart_1/static/css/1.0d84de86.chunk.css"
   },
   {
-    "revision": "59e1aebe97f82d92edc03e9c28b035db",
+    "revision": "82a743c473ad72a58e7b30e5479ac85b",
     "url": "/team_site_standart_1/index.html"
   }
 ];
