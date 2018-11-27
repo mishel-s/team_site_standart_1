@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/kirichenko.23da69ed.png"
   },
   {
-    "revision": "3daf412f20e79db10e7b",
-    "url": "/team_site_standart_1/static/css/main.0aa728df.chunk.css"
+    "revision": "16f0f4780500c911ae6f",
+    "url": "/team_site_standart_1/static/css/main.dc031e47.chunk.css"
   },
   {
     "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
     "url": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf"
   },
   {
-    "revision": "fd88f29227114cf322e5",
-    "url": "/team_site_standart_1/static/js/1.fd88f292.chunk.js"
+    "revision": "ac9b7ba4faac3a2e88fd",
+    "url": "/team_site_standart_1/static/js/1.ac9b7ba4.chunk.js"
   },
   {
     "revision": "0b797f33ccd3c94d7753",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/bugaiov.fe9939fd.png"
   },
   {
-    "revision": "3daf412f20e79db10e7b",
-    "url": "/team_site_standart_1/static/js/main.3daf412f.chunk.js"
+    "revision": "16f0f4780500c911ae6f",
+    "url": "/team_site_standart_1/static/js/main.16f0f478.chunk.js"
   },
   {
     "revision": "73203b2f9d8de462f69baa7a38f3b27f",
@@ -76,19 +76,19 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
   },
   {
-    "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
-    "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
-  },
-  {
     "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
     "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
   },
   {
-    "revision": "fd88f29227114cf322e5",
-    "url": "/team_site_standart_1/static/css/1.0d84de86.chunk.css"
+    "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
+    "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
   },
   {
-    "revision": "82a743c473ad72a58e7b30e5479ac85b",
+    "revision": "ac9b7ba4faac3a2e88fd",
+    "url": "/team_site_standart_1/static/css/1.adb26b67.chunk.css"
+  },
+  {
+    "revision": "39dbc652ef42cf300e3a55822976b398",
     "url": "/team_site_standart_1/index.html"
   }
 ];
