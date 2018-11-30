@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/huawei.fef8840e.png"
   },
   {
-    "revision": "709a81da8bfc550e7f28",
-    "url": "/team_site_standart_1/static/css/main.88bdf7ab.chunk.css"
+    "revision": "eeec652d1e13399a72ed",
+    "url": "/team_site_standart_1/static/css/main.999f550c.chunk.css"
   },
   {
     "revision": "73203b2f9d8de462f69baa7a38f3b27f",
     "url": "/team_site_standart_1/static/media/kovalyov.73203b2f.png"
   },
   {
-    "revision": "cc56dfce306ef29b31a8",
-    "url": "/team_site_standart_1/static/js/1.cc56dfce.chunk.js"
+    "revision": "2de1e2ae9a3c64a1b93f",
+    "url": "/team_site_standart_1/static/js/1.2de1e2ae.chunk.js"
   },
   {
     "revision": "0b797f33ccd3c94d7753",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/givova.c64a8c14.png"
   },
   {
-    "revision": "709a81da8bfc550e7f28",
-    "url": "/team_site_standart_1/static/js/main.709a81da.chunk.js"
+    "revision": "eeec652d1e13399a72ed",
+    "url": "/team_site_standart_1/static/js/main.eeec652d.chunk.js"
   },
   {
     "revision": "0798f8655d847ac72a16cd0fdcd617bf",
@@ -76,20 +76,20 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/image4.8e479231.jpeg"
   },
   {
-    "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
-    "url": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf"
+    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
+    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
   },
   {
     "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
     "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
   },
   {
-    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
-    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
-  },
-  {
     "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
     "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
+  },
+  {
+    "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
+    "url": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf"
   },
   {
     "revision": "533dfa624b848d9cead0a5d6c7f23cfa",
@@ -104,11 +104,11 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/kirichenko.23da69ed.png"
   },
   {
-    "revision": "cc56dfce306ef29b31a8",
+    "revision": "2de1e2ae9a3c64a1b93f",
     "url": "/team_site_standart_1/static/css/1.6272a9fe.chunk.css"
   },
   {
-    "revision": "c1665c95e250072f4c14dd1bb4809eed",
+    "revision": "eb71cc04c275549099008518a7754210",
     "url": "/team_site_standart_1/index.html"
   }
 ];
