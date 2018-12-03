@@ -1,7 +1,7 @@
 {
-  "main.css": "/team_site_standart_1/static/css/main.999f550c.chunk.css",
-  "main.js": "/team_site_standart_1/static/js/main.eeec652d.chunk.js",
-  "main.js.map": "/team_site_standart_1/static/js/main.eeec652d.chunk.js.map",
+  "main.css": "/team_site_standart_1/static/css/main.0617c728.chunk.css",
+  "main.js": "/team_site_standart_1/static/js/main.556ce0c3.chunk.js",
+  "main.js.map": "/team_site_standart_1/static/js/main.556ce0c3.chunk.js.map",
   "static/css/1.6272a9fe.chunk.css": "/team_site_standart_1/static/css/1.6272a9fe.chunk.css",
   "static/js/1.2de1e2ae.chunk.js": "/team_site_standart_1/static/js/1.2de1e2ae.chunk.js",
   "static/js/1.2de1e2ae.chunk.js.map": "/team_site_standart_1/static/js/1.2de1e2ae.chunk.js.map",
@@ -26,9 +26,9 @@
   "static/media/bugaiov.png": "/team_site_standart_1/static/media/bugaiov.fe9939fd.png",
   "static/media/kirichenko.png": "/team_site_standart_1/static/media/kirichenko.23da69ed.png",
   "static/media/kovalyov.png": "/team_site_standart_1/static/media/kovalyov.73203b2f.png",
+  "static/css/main.0617c728.chunk.css.map": "/team_site_standart_1/static/css/main.0617c728.chunk.css.map",
   "static/css/1.6272a9fe.chunk.css.map": "/team_site_standart_1/static/css/1.6272a9fe.chunk.css.map",
-  "static/css/main.999f550c.chunk.css.map": "/team_site_standart_1/static/css/main.999f550c.chunk.css.map",
   "index.html": "/team_site_standart_1/index.html",
-  "precache-manifest.a914b615d4988049f534edf2b4e6e2a2.js": "/team_site_standart_1/precache-manifest.a914b615d4988049f534edf2b4e6e2a2.js",
+  "precache-manifest.1fd8d59056ad1d4a67502031cde3559e.js": "/team_site_standart_1/precache-manifest.1fd8d59056ad1d4a67502031cde3559e.js",
   "service-worker.js": "/team_site_standart_1/service-worker.js"
 }

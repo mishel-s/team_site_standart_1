@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/huawei.fef8840e.png"
   },
   {
-    "revision": "eeec652d1e13399a72ed",
-    "url": "/team_site_standart_1/static/css/main.999f550c.chunk.css"
+    "revision": "556ce0c307afeffe4425",
+    "url": "/team_site_standart_1/static/css/main.0617c728.chunk.css"
   },
   {
     "revision": "73203b2f9d8de462f69baa7a38f3b27f",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/givova.c64a8c14.png"
   },
   {
-    "revision": "eeec652d1e13399a72ed",
-    "url": "/team_site_standart_1/static/js/main.eeec652d.chunk.js"
+    "revision": "556ce0c307afeffe4425",
+    "url": "/team_site_standart_1/static/js/main.556ce0c3.chunk.js"
   },
   {
     "revision": "0798f8655d847ac72a16cd0fdcd617bf",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/image4.8e479231.jpeg"
   },
   {
-    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
-    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
-  },
-  {
     "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
     "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
+  },
+  {
+    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
+    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
   },
   {
     "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/css/1.6272a9fe.chunk.css"
   },
   {
-    "revision": "eb71cc04c275549099008518a7754210",
+    "revision": "dfedac4d86ad657a6f6617492d2ac4fb",
     "url": "/team_site_standart_1/index.html"
   }
 ];
