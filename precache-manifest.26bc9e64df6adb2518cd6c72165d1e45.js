@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/huawei.fef8840e.png"
   },
   {
-    "revision": "556ce0c307afeffe4425",
-    "url": "/team_site_standart_1/static/css/main.0617c728.chunk.css"
+    "revision": "64ec404cf474f179efa0",
+    "url": "/team_site_standart_1/static/css/main.ea312061.chunk.css"
   },
   {
     "revision": "73203b2f9d8de462f69baa7a38f3b27f",
     "url": "/team_site_standart_1/static/media/kovalyov.73203b2f.png"
   },
   {
-    "revision": "2de1e2ae9a3c64a1b93f",
-    "url": "/team_site_standart_1/static/js/1.2de1e2ae.chunk.js"
+    "revision": "368dc0e4df8873510d25",
+    "url": "/team_site_standart_1/static/js/1.368dc0e4.chunk.js"
   },
   {
     "revision": "0b797f33ccd3c94d7753",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/givova.c64a8c14.png"
   },
   {
-    "revision": "556ce0c307afeffe4425",
-    "url": "/team_site_standart_1/static/js/main.556ce0c3.chunk.js"
+    "revision": "64ec404cf474f179efa0",
+    "url": "/team_site_standart_1/static/js/main.64ec404c.chunk.js"
   },
   {
     "revision": "0798f8655d847ac72a16cd0fdcd617bf",
@@ -76,12 +76,16 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/image4.8e479231.jpeg"
   },
   {
-    "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
-    "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
+    "revision": "59337baed905d6196632ae1986fb2086",
+    "url": "/team_site_standart_1/static/media/default-avatar.59337bae.png"
   },
   {
     "revision": "9ff12f694e5951a6f51a9d63b05062e7",
     "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
+  },
+  {
+    "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
+    "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
   },
   {
     "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
@@ -104,11 +108,11 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/kirichenko.23da69ed.png"
   },
   {
-    "revision": "2de1e2ae9a3c64a1b93f",
-    "url": "/team_site_standart_1/static/css/1.6272a9fe.chunk.css"
+    "revision": "368dc0e4df8873510d25",
+    "url": "/team_site_standart_1/static/css/1.f4b844ee.chunk.css"
   },
   {
-    "revision": "dfedac4d86ad657a6f6617492d2ac4fb",
+    "revision": "65c577fb74f6eb2b294ad6ed60f1ebe0",
     "url": "/team_site_standart_1/index.html"
   }
 ];
