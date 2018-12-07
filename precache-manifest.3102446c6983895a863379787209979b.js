@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "fef8840ed8ebc727ec91a4a6df3a70d6",
-    "url": "/team_site_standart_1/static/media/huawei.fef8840e.png"
-  },
-  {
-    "revision": "64ec404cf474f179efa0",
-    "url": "/team_site_standart_1/static/css/main.ea312061.chunk.css"
-  },
-  {
     "revision": "73203b2f9d8de462f69baa7a38f3b27f",
     "url": "/team_site_standart_1/static/media/kovalyov.73203b2f.png"
   },
   {
-    "revision": "368dc0e4df8873510d25",
-    "url": "/team_site_standart_1/static/js/1.368dc0e4.chunk.js"
+    "revision": "1a1d24be159b713a2f18",
+    "url": "/team_site_standart_1/static/css/main.53a128d3.chunk.css"
+  },
+  {
+    "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
+    "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
+  },
+  {
+    "revision": "1eea5cf2d8c6d2b048c1",
+    "url": "/team_site_standart_1/static/js/1.1eea5cf2.chunk.js"
   },
   {
     "revision": "0b797f33ccd3c94d7753",
@@ -48,6 +48,26 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/must_media.a6cc86ec.png"
   },
   {
+    "revision": "533dfa624b848d9cead0a5d6c7f23cfa",
+    "url": "/team_site_standart_1/static/media/dimitrov.533dfa62.png"
+  },
+  {
+    "revision": "fe9939fd0debe2327e6a2c86f9684d95",
+    "url": "/team_site_standart_1/static/media/bugaiov.fe9939fd.png"
+  },
+  {
+    "revision": "23da69ed5d7611a6fbce4d39ba2561a6",
+    "url": "/team_site_standart_1/static/media/kirichenko.23da69ed.png"
+  },
+  {
+    "revision": "1a1d24be159b713a2f18",
+    "url": "/team_site_standart_1/static/js/main.1a1d24be.chunk.js"
+  },
+  {
+    "revision": "44ec7f82071c1692023fc756d8034144",
+    "url": "/team_site_standart_1/static/media/budushevskiy.44ec7f82.png"
+  },
+  {
     "revision": "db8d24e84ac6c1f2785e71db3de7d78a",
     "url": "/team_site_standart_1/static/media/esfu.db8d24e8.png"
   },
@@ -56,8 +76,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/givova.c64a8c14.png"
   },
   {
-    "revision": "64ec404cf474f179efa0",
-    "url": "/team_site_standart_1/static/js/main.64ec404c.chunk.js"
+    "revision": "fef8840ed8ebc727ec91a4a6df3a70d6",
+    "url": "/team_site_standart_1/static/media/huawei.fef8840e.png"
   },
   {
     "revision": "0798f8655d847ac72a16cd0fdcd617bf",
@@ -80,39 +100,23 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/default-avatar.59337bae.png"
   },
   {
-    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
-    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
-  },
-  {
     "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
     "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
   },
   {
-    "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
-    "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
+    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
+    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
   },
   {
     "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
     "url": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf"
   },
   {
-    "revision": "533dfa624b848d9cead0a5d6c7f23cfa",
-    "url": "/team_site_standart_1/static/media/dimitrov.533dfa62.png"
+    "revision": "1eea5cf2d8c6d2b048c1",
+    "url": "/team_site_standart_1/static/css/1.7ffd8640.chunk.css"
   },
   {
-    "revision": "fe9939fd0debe2327e6a2c86f9684d95",
-    "url": "/team_site_standart_1/static/media/bugaiov.fe9939fd.png"
-  },
-  {
-    "revision": "23da69ed5d7611a6fbce4d39ba2561a6",
-    "url": "/team_site_standart_1/static/media/kirichenko.23da69ed.png"
-  },
-  {
-    "revision": "368dc0e4df8873510d25",
-    "url": "/team_site_standart_1/static/css/1.f4b844ee.chunk.css"
-  },
-  {
-    "revision": "65c577fb74f6eb2b294ad6ed60f1ebe0",
+    "revision": "8c4c1ca6ff18845855b150c7268a15b2",
     "url": "/team_site_standart_1/index.html"
   }
 ];
