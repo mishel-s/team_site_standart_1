@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/kovalyov.73203b2f.png"
   },
   {
-    "revision": "1a1d24be159b713a2f18",
-    "url": "/team_site_standart_1/static/css/main.53a128d3.chunk.css"
+    "revision": "71f285af603edd0580df",
+    "url": "/team_site_standart_1/static/css/main.3319f95b.chunk.css"
   },
   {
-    "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
-    "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
+    "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
+    "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
   },
   {
-    "revision": "1eea5cf2d8c6d2b048c1",
-    "url": "/team_site_standart_1/static/js/1.1eea5cf2.chunk.js"
+    "revision": "522f5f383005ec4f9a0f",
+    "url": "/team_site_standart_1/static/js/1.522f5f38.chunk.js"
   },
   {
     "revision": "0b797f33ccd3c94d7753",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/kirichenko.23da69ed.png"
   },
   {
-    "revision": "1a1d24be159b713a2f18",
-    "url": "/team_site_standart_1/static/js/main.1a1d24be.chunk.js"
+    "revision": "71f285af603edd0580df",
+    "url": "/team_site_standart_1/static/js/main.71f285af.chunk.js"
   },
   {
     "revision": "44ec7f82071c1692023fc756d8034144",
@@ -100,10 +100,6 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/default-avatar.59337bae.png"
   },
   {
-    "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
-    "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
-  },
-  {
     "revision": "9ff12f694e5951a6f51a9d63b05062e7",
     "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
   },
@@ -112,11 +108,15 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf"
   },
   {
-    "revision": "1eea5cf2d8c6d2b048c1",
+    "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
+    "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
+  },
+  {
+    "revision": "522f5f383005ec4f9a0f",
     "url": "/team_site_standart_1/static/css/1.7ffd8640.chunk.css"
   },
   {
-    "revision": "8c4c1ca6ff18845855b150c7268a15b2",
+    "revision": "feb145db0a0b2412c2f8d0ed34c49636",
     "url": "/team_site_standart_1/index.html"
   }
 ];
