@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/kovalyov.73203b2f.png"
   },
   {
-    "revision": "71f285af603edd0580df",
-    "url": "/team_site_standart_1/static/css/main.3319f95b.chunk.css"
+    "revision": "022cc88dcb1d56c30a80",
+    "url": "/team_site_standart_1/static/css/main.44deb8f7.chunk.css"
   },
   {
-    "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
-    "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
+    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
+    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
   },
   {
-    "revision": "522f5f383005ec4f9a0f",
-    "url": "/team_site_standart_1/static/js/1.522f5f38.chunk.js"
+    "revision": "daa87c72d1b7d2f75682",
+    "url": "/team_site_standart_1/static/js/1.daa87c72.chunk.js"
   },
   {
     "revision": "0b797f33ccd3c94d7753",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/kirichenko.23da69ed.png"
   },
   {
-    "revision": "71f285af603edd0580df",
-    "url": "/team_site_standart_1/static/js/main.71f285af.chunk.js"
+    "revision": "022cc88dcb1d56c30a80",
+    "url": "/team_site_standart_1/static/js/main.022cc88d.chunk.js"
   },
   {
     "revision": "44ec7f82071c1692023fc756d8034144",
@@ -100,23 +100,23 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/default-avatar.59337bae.png"
   },
   {
-    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
-    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
-  },
-  {
     "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
     "url": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf"
+  },
+  {
+    "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
+    "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
   },
   {
     "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
     "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
   },
   {
-    "revision": "522f5f383005ec4f9a0f",
-    "url": "/team_site_standart_1/static/css/1.7ffd8640.chunk.css"
+    "revision": "daa87c72d1b7d2f75682",
+    "url": "/team_site_standart_1/static/css/1.92e2120d.chunk.css"
   },
   {
-    "revision": "feb145db0a0b2412c2f8d0ed34c49636",
+    "revision": "33de18e6ef2f6fe8b59485bb0b77e26e",
     "url": "/team_site_standart_1/index.html"
   }
 ];
