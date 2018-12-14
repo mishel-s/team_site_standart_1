@@ -1,10 +1,10 @@
 {
-  "main.css": "/team_site_standart_1/static/css/main.e3acd0fa.chunk.css",
-  "main.js": "/team_site_standart_1/static/js/main.b5b1a4ff.chunk.js",
-  "main.js.map": "/team_site_standart_1/static/js/main.b5b1a4ff.chunk.js.map",
+  "main.css": "/team_site_standart_1/static/css/main.221b683f.chunk.css",
+  "main.js": "/team_site_standart_1/static/js/main.6ef7c8e9.chunk.js",
+  "main.js.map": "/team_site_standart_1/static/js/main.6ef7c8e9.chunk.js.map",
   "static/css/1.8af0218c.chunk.css": "/team_site_standart_1/static/css/1.8af0218c.chunk.css",
-  "static/js/1.68626ca7.chunk.js": "/team_site_standart_1/static/js/1.68626ca7.chunk.js",
-  "static/js/1.68626ca7.chunk.js.map": "/team_site_standart_1/static/js/1.68626ca7.chunk.js.map",
+  "static/js/1.85cb0806.chunk.js": "/team_site_standart_1/static/js/1.85cb0806.chunk.js",
+  "static/js/1.85cb0806.chunk.js.map": "/team_site_standart_1/static/js/1.85cb0806.chunk.js.map",
   "runtime~main.js": "/team_site_standart_1/static/js/runtime~main.0b797f33.js",
   "runtime~main.js.map": "/team_site_standart_1/static/js/runtime~main.0b797f33.js.map",
   "static/media/App.css": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf",
@@ -28,9 +28,9 @@
   "static/media/savastru.png": "/team_site_standart_1/static/media/savastru.4d4040ea.png",
   "static/media/logo-png.png": "/team_site_standart_1/static/media/logo-png.01a8f4eb.png",
   "static/media/must_media.png": "/team_site_standart_1/static/media/must_media.a6cc86ec.png",
-  "static/css/main.e3acd0fa.chunk.css.map": "/team_site_standart_1/static/css/main.e3acd0fa.chunk.css.map",
+  "static/css/main.221b683f.chunk.css.map": "/team_site_standart_1/static/css/main.221b683f.chunk.css.map",
   "static/css/1.8af0218c.chunk.css.map": "/team_site_standart_1/static/css/1.8af0218c.chunk.css.map",
   "index.html": "/team_site_standart_1/index.html",
-  "precache-manifest.5bbe308fc7d01e671405059e3b739974.js": "/team_site_standart_1/precache-manifest.5bbe308fc7d01e671405059e3b739974.js",
+  "precache-manifest.839921fd50243d32b1d67e67a8fe13ee.js": "/team_site_standart_1/precache-manifest.839921fd50243d32b1d67e67a8fe13ee.js",
   "service-worker.js": "/team_site_standart_1/service-worker.js"
 }

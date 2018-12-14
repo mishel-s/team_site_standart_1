@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/esfu.db8d24e8.png"
   },
   {
-    "revision": "b5b1a4ff198303fe2738",
-    "url": "/team_site_standart_1/static/css/main.e3acd0fa.chunk.css"
+    "revision": "6ef7c8e90c61e9b146bb",
+    "url": "/team_site_standart_1/static/css/main.221b683f.chunk.css"
   },
   {
     "revision": "a6cc86ec15c93732c577600b357987a0",
     "url": "/team_site_standart_1/static/media/must_media.a6cc86ec.png"
   },
   {
-    "revision": "68626ca74bb38790055b",
-    "url": "/team_site_standart_1/static/js/1.68626ca7.chunk.js"
+    "revision": "85cb0806a0a6599175e6",
+    "url": "/team_site_standart_1/static/js/1.85cb0806.chunk.js"
   },
   {
     "revision": "0b797f33ccd3c94d7753",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/budushevskiy.44ec7f82.png"
   },
   {
-    "revision": "b5b1a4ff198303fe2738",
-    "url": "/team_site_standart_1/static/js/main.b5b1a4ff.chunk.js"
+    "revision": "6ef7c8e90c61e9b146bb",
+    "url": "/team_site_standart_1/static/js/main.6ef7c8e9.chunk.js"
   },
   {
     "revision": "c64a8c140cf897749ae2dd6a8a533f31",
@@ -112,11 +112,11 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/logo-png.01a8f4eb.png"
   },
   {
-    "revision": "68626ca74bb38790055b",
+    "revision": "85cb0806a0a6599175e6",
     "url": "/team_site_standart_1/static/css/1.8af0218c.chunk.css"
   },
   {
-    "revision": "7a597aa90870008f785ce0ab5c9e6c7f",
+    "revision": "839a7adf78ac81545f57cb615fa51308",
     "url": "/team_site_standart_1/index.html"
   }
 ];
