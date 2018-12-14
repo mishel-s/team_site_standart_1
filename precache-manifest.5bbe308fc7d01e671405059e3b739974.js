@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "73203b2f9d8de462f69baa7a38f3b27f",
-    "url": "/team_site_standart_1/static/media/kovalyov.73203b2f.png"
+    "revision": "db8d24e84ac6c1f2785e71db3de7d78a",
+    "url": "/team_site_standart_1/static/media/esfu.db8d24e8.png"
   },
   {
-    "revision": "022cc88dcb1d56c30a80",
-    "url": "/team_site_standart_1/static/css/main.44deb8f7.chunk.css"
+    "revision": "b5b1a4ff198303fe2738",
+    "url": "/team_site_standart_1/static/css/main.e3acd0fa.chunk.css"
   },
   {
-    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
-    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
+    "revision": "a6cc86ec15c93732c577600b357987a0",
+    "url": "/team_site_standart_1/static/media/must_media.a6cc86ec.png"
   },
   {
-    "revision": "daa87c72d1b7d2f75682",
-    "url": "/team_site_standart_1/static/js/1.daa87c72.chunk.js"
+    "revision": "68626ca74bb38790055b",
+    "url": "/team_site_standart_1/static/js/1.68626ca7.chunk.js"
   },
   {
     "revision": "0b797f33ccd3c94d7753",
@@ -24,16 +24,12 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/logo-odessa.9bd3a9a5.png"
   },
   {
-    "revision": "d27bf558a70718282fa144aa29d5bad4",
-    "url": "/team_site_standart_1/static/media/mind_games.d27bf558.png"
-  },
-  {
-    "revision": "01a8f4eb808c53ed008b5794fc514795",
-    "url": "/team_site_standart_1/static/media/logo-png.01a8f4eb.png"
-  },
-  {
     "revision": "4d4040eac654c199567bd9f97e903248",
     "url": "/team_site_standart_1/static/media/savastru.4d4040ea.png"
+  },
+  {
+    "revision": "d27bf558a70718282fa144aa29d5bad4",
+    "url": "/team_site_standart_1/static/media/mind_games.d27bf558.png"
   },
   {
     "revision": "c9c9418f5ae3dfacdc58449bb177acd9",
@@ -42,10 +38,6 @@ self.__precacheManifest = [
   {
     "revision": "a6cd8562b1f36b19252d8ca81cedc988",
     "url": "/team_site_standart_1/static/media/image6.a6cd8562.jpg"
-  },
-  {
-    "revision": "a6cc86ec15c93732c577600b357987a0",
-    "url": "/team_site_standart_1/static/media/must_media.a6cc86ec.png"
   },
   {
     "revision": "533dfa624b848d9cead0a5d6c7f23cfa",
@@ -60,16 +52,16 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/kirichenko.23da69ed.png"
   },
   {
-    "revision": "022cc88dcb1d56c30a80",
-    "url": "/team_site_standart_1/static/js/main.022cc88d.chunk.js"
+    "revision": "73203b2f9d8de462f69baa7a38f3b27f",
+    "url": "/team_site_standart_1/static/media/kovalyov.73203b2f.png"
   },
   {
     "revision": "44ec7f82071c1692023fc756d8034144",
     "url": "/team_site_standart_1/static/media/budushevskiy.44ec7f82.png"
   },
   {
-    "revision": "db8d24e84ac6c1f2785e71db3de7d78a",
-    "url": "/team_site_standart_1/static/media/esfu.db8d24e8.png"
+    "revision": "b5b1a4ff198303fe2738",
+    "url": "/team_site_standart_1/static/js/main.b5b1a4ff.chunk.js"
   },
   {
     "revision": "c64a8c140cf897749ae2dd6a8a533f31",
@@ -100,8 +92,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/default-avatar.59337bae.png"
   },
   {
-    "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
-    "url": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf"
+    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
+    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
   },
   {
     "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
@@ -112,11 +104,19 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
   },
   {
-    "revision": "daa87c72d1b7d2f75682",
-    "url": "/team_site_standart_1/static/css/1.92e2120d.chunk.css"
+    "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
+    "url": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf"
   },
   {
-    "revision": "33de18e6ef2f6fe8b59485bb0b77e26e",
+    "revision": "01a8f4eb808c53ed008b5794fc514795",
+    "url": "/team_site_standart_1/static/media/logo-png.01a8f4eb.png"
+  },
+  {
+    "revision": "68626ca74bb38790055b",
+    "url": "/team_site_standart_1/static/css/1.8af0218c.chunk.css"
+  },
+  {
+    "revision": "7a597aa90870008f785ce0ab5c9e6c7f",
     "url": "/team_site_standart_1/index.html"
   }
 ];
