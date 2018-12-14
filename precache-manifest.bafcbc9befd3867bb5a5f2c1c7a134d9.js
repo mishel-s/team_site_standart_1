@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/esfu.db8d24e8.png"
   },
   {
-    "revision": "6ef7c8e90c61e9b146bb",
-    "url": "/team_site_standart_1/static/css/main.221b683f.chunk.css"
+    "revision": "ca72f4e2bdd9713e84a8",
+    "url": "/team_site_standart_1/static/css/main.50a59dae.chunk.css"
   },
   {
     "revision": "a6cc86ec15c93732c577600b357987a0",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/budushevskiy.44ec7f82.png"
   },
   {
-    "revision": "6ef7c8e90c61e9b146bb",
-    "url": "/team_site_standart_1/static/js/main.6ef7c8e9.chunk.js"
+    "revision": "ca72f4e2bdd9713e84a8",
+    "url": "/team_site_standart_1/static/js/main.ca72f4e2.chunk.js"
   },
   {
     "revision": "c64a8c140cf897749ae2dd6a8a533f31",
@@ -92,20 +92,20 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/default-avatar.59337bae.png"
   },
   {
-    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
-    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
-  },
-  {
     "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
     "url": "/team_site_standart_1/static/media/OpenSans-Regular.d7d5d458.ttf"
   },
   {
-    "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
-    "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
+    "revision": "9ff12f694e5951a6f51a9d63b05062e7",
+    "url": "/team_site_standart_1/static/media/OpenSans-Light.9ff12f69.ttf"
   },
   {
     "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
     "url": "/team_site_standart_1/static/media/OpenSans-SemiBold.e1c83f94.ttf"
+  },
+  {
+    "revision": "f5331cb6372b6c0d8baf2dd7e200498c",
+    "url": "/team_site_standart_1/static/media/OpenSans-Bold.f5331cb6.ttf"
   },
   {
     "revision": "01a8f4eb808c53ed008b5794fc514795",
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/css/1.8af0218c.chunk.css"
   },
   {
-    "revision": "839a7adf78ac81545f57cb615fa51308",
+    "revision": "c9f033ca4cf0e57caa1e0929c2f0f052",
     "url": "/team_site_standart_1/index.html"
   }
 ];
