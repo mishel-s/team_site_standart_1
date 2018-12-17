@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/esfu.db8d24e8.png"
   },
   {
-    "revision": "9c76296c7dc7cc1d1fac",
+    "revision": "1472e7555ef1278800e0",
     "url": "/team_site_standart_1/static/css/main.e6fc6c4f.chunk.css"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/media/budushevskiy.44ec7f82.png"
   },
   {
-    "revision": "9c76296c7dc7cc1d1fac",
-    "url": "/team_site_standart_1/static/js/main.9c76296c.chunk.js"
+    "revision": "1472e7555ef1278800e0",
+    "url": "/team_site_standart_1/static/js/main.1472e755.chunk.js"
   },
   {
     "revision": "c64a8c140cf897749ae2dd6a8a533f31",
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/team_site_standart_1/static/css/1.8af0218c.chunk.css"
   },
   {
-    "revision": "df7f75f9b0f84e7f461666fcded619f9",
+    "revision": "dd49f31211b5f3e37fbb91e402092ca5",
     "url": "/team_site_standart_1/index.html"
   }
 ];
