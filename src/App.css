@@ -1,6 +1,27 @@
-@media (min-width: 250px) {
+@font-face {
+  font-family: "OpenSans-Light";
+  src: url('./assets/fonts/Open_Sans/OpenSans-Light.ttf');
+}
+@font-face {
+  font-family: "OpenSans-Regular";
+  src: url('./assets/fonts/Open_Sans/OpenSans-Regular.ttf');
+}
+@font-face {
+  font-family: "OpenSans-SemiBold";
+  src: url('./assets/fonts/Open_Sans/OpenSans-SemiBold.ttf');
+}
+@font-face {
+  font-family: "OpenSans-Bold";
+  src: url('./assets/fonts/Open_Sans/OpenSans-Bold.ttf');
+}
+
+
+/*============================== Adaptive ==============================*/
+
+@media (min-width: 0px) {
   .App {
-    text-align: center;
+    font-family: "OpenSans-Light";
+    font-size: 14px;
   }
 
   .b-black {
@@ -56,13 +77,17 @@
     box-shadow: inset 0 1px 0 rgba(134, 130, 130, 0.877);
   }
 
-  .partners {
-    position: relative;
-    top: 80px;
+  #navbarSupportedContent li > a {
+    font-weight: 700;
   }
 
+  /*.partners {
+    position: relative;
+    top: 80px;
+  }*/
+
   .partner-logo {
-    width: 50px;
+    width: 40px;
   }
 
   .content {
@@ -74,21 +99,37 @@
     position: relative;
     top: 80px;    
   }
-}
-@media (min-width: 750px) {
-  .partners {
-    top: 98px;
+
+  .f-info-logo {
+    opacity: 0.5;
+    filter: grayscale(100%) contrast(150%);
   }
+
+  .f-fima-info {
+    font-size: 12px;
+  }
+
+  .f-other {
+    font-size: 12px;
+  }
+}
+
+
+
+@media (min-width: 750px) {
+  /*.partners {
+    top: 98px;
+  }*/
 
   .partner-logo {
     width: 70px;
   }
 
   .content {
-    top: 98px;
+    top: 102px;
   }
 
   footer {
-    top: 98px;    
+    top: 102px;    
   }
 }

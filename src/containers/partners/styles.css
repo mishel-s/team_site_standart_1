@@ -1,0 +1,29 @@
+.partners::before {
+  display: block;
+  content: " ";
+  width: 100%;
+  height: 2px;
+  background-image: -webkit-linear-gradient(right, #343a40 0%, #535353 100%);
+  background-image: -o-linear-gradient(right, #343a40 0%, #535353 100%);
+  background-image: linear-gradient(to left, #535353 0%, #343a40 100%); 
+  position: absolute;
+  top: -5px;
+}
+
+.partners::after {
+  display: block;
+  content: " ";
+  width: 100%;
+  height: 2px;
+  background-image: -webkit-linear-gradient(left, #343a40 0%, #535353 100%);
+  background-image: -o-linear-gradient(left, #343a40 0%, #535353 100%);
+  background-image: linear-gradient(to right, #535353 0%, #343a40 100%); 
+  background-color: grey;
+  position: absolute;
+  bottom: -5px;
+}
+
+.team-logo h1 {
+    font-family: "OpenSans-SemiBold";
+    font-size: 16px;
+}

@@ -1,0 +1,33 @@
+@media (min-width: 0px) {
+  .publications .row {
+    justify-content: space-around;
+  }
+
+  .publicationCard {
+    width: 46%;
+  }
+}
+
+@media (min-width: 768px) {
+  .publications .row {
+    justify-content: start;
+  }
+
+  .publicationCard {
+		width: 198px;
+  }
+
+  .publicationsPage .publicationCard {
+    width: 222px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .publicationCard {
+    width: 238px;
+  }
+
+  .publicationsPage .publicationCard {
+    width: 214px;
+  }
+}

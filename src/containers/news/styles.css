@@ -1,0 +1,17 @@
+.bt-publicationsListLink {
+  height: 40px;
+  border: 1px solid #717171;
+  border-radius: 5px;
+  background-color: #535353;
+  color: white;
+}
+
+.publications a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+
+.publications a:hover {
+  color: black;
+}
