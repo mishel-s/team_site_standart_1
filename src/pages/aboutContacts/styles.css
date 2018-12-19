@@ -1,0 +1,20 @@
+.contacts-title {
+  font-family: "OpenSans-SemiBold";
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.contacts_logo {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.contacts_name {
+  font-family: 'OpenSans-SemiBold';
+
+}
+
+.contacts_info span {
+  font-weight: 700;
+}

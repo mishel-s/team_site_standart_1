@@ -1,0 +1,49 @@
+.btShare {
+  position: relative;
+  width: 20px;
+  height: 25px;
+  display: flex;
+  cursor: pointer;
+  transform: scale(0.8);
+}
+
+.btShare-left {
+  width: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btShare-circle {
+  width: 7px;
+  height: 7px;
+  border-radius: 4px;
+  border: 1px solid grey;
+  background-color: grey;
+}
+
+.btShare-rigth {
+  width: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btShare-lineTop {
+  position: absolute;
+  top: 7px;
+  left: 5px;
+  width: 10px;
+  border-top: 1px solid grey;
+  transform: rotate(-42deg); 
+}
+
+.btShare-lineBottom {
+  position: absolute;
+  bottom: 7px;
+  left: 5px;
+  width: 10px;
+  border-top: 1px solid grey;
+  transform: rotate(42deg); 
+}

@@ -1,0 +1,18 @@
+@media ( min-width: 0px ) {
+  .NewsBaner img {
+    cursor: pointer;
+  }
+
+  .carousel-item h5 {
+    font-size: 12px;
+    margin-bottom: 1%;
+  }
+}
+
+@media ( min-width: 490px ) {
+
+  .carousel-item h5 {
+    font-size: 16px;
+    margin-bottom: 4%;
+  }
+}
