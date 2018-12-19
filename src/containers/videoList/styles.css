@@ -1,8 +1,0 @@
-.s-videoListBlock .s-videoList {
-display: flex;
-flex-direction: column;
-}
-
-.videoPage .s-videoList {
-  flex-direction: row;
-}
