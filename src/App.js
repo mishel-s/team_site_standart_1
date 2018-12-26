@@ -1,12 +1,30 @@
 import React, { Component } from 'react';
-import './App.css';
-import Header from './containers/header/header.js';
-import Footer from './containers/footer/footer.js';
-import { teamData } from './api/teamData.js';
 
-import SwitchRoute from './components/switchRoute/switchRoute.js';
+import {SwitchRoute} from './components/SwitchRoute';
+import {Header} from './containers/Header';
+import {Footer} from './containers/Footer';
+import {teamData} from './api/teamData.js';
+import getTeamInfo from './api/request.js';
+
+import './App.css';
 
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+        teamInfo: []
+    }
+  }
+
+  setTeamInfo = () => {
+    getTeamInfo()
+      .then(data => {
+        this.setState({
+          teamInfo: data,
+        })
+      })      
+  } 
+
   render() {
     return (
       <div className="App">

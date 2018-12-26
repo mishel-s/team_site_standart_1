@@ -20,11 +20,6 @@ import image4 from '../assets/img/images/image4.jpeg';
 import image5 from '../assets/img/images/image5.jpg';
 import image6 from '../assets/img/images/image6.jpg';
 
-import p1image from '../assets/img/logo/logo-png.png';
-import p3image from '../assets/img/partners/must_media.png';
-import p4image from '../assets/img/partners/mind_games.png';
-import p6image from '../assets/img/players/savastru.png';
-
 import italy from '../assets/img/logo/countries/italy.png';
 import germany from '../assets/img/logo/countries/germany.png';
 import france from '../assets/img/logo/countries/france.png';

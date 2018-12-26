@@ -36,7 +36,7 @@
   }
 }
 
-@media ( min-width: 350px ) {
+@media( min-width: 350px ) {
   .cc-position {
     padding-bottom: 10px;
   }
