@@ -1,4 +1,32 @@
 @media ( min-width: 0px ) {
+
+  .ci-position {
+    width: auto;
+    margin: 0;
+    right: 5%;
+    left: 80%;
+    bottom: 30px;
+    z-index: 2;
+  }
+
+  .cc-position {
+    text-align: left;
+    left: 5%;
+    padding-bottom: 10px;
+    bottom: 0;
+    z-index: 2;
+  }
+
+  .bblock {
+    height: 40%;
+    width: 100%;
+    background-image: linear-gradient(rgba(255,0,0,0), rgb(0, 0, 0));
+    position: absolute;
+    bottom: 0;
+    opacity: 0.7;
+    z-index: 1;
+  }
+
   .NewsBaner img {
     cursor: pointer;
   }
@@ -6,6 +34,12 @@
   .carousel-item h5 {
     font-size: 12px;
     margin-bottom: 1%;
+  }
+}
+
+@media( min-width: 350px ) {
+  .cc-position {
+    padding-bottom: 10px;
   }
 }
 
