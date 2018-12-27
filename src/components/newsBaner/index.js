@@ -33,7 +33,7 @@ class NewsBaner extends Component {
                     src={publications[0].image} 
                     alt={publications[0].title} />
                 <div className="bblock"></div>
-                <div className="carousel-caption cc-position">
+                <div className="cc-position">
                   <h5>{ this.cutString(publications[0].title, LengthCuttingString) }</h5>
                 </div>
               </div>
@@ -43,7 +43,7 @@ class NewsBaner extends Component {
                     src={publications[1].image} 
                     alt={publications[1].title} />
                 <div className="bblock"></div>
-                <div className="carousel-caption cc-position">
+                <div className="cc-position">
                   <h5>{ this.cutString(publications[1].title, LengthCuttingString) }</h5>
                 </div>
               </div>
